@@ -23,7 +23,7 @@ const getNewQuote = async () => {
 
 getNewQuote();
 
-// Fade Out Animation
+// Fade Out Animation Approach
 // 1. getElembyId
 // 2.var timeAnim = 500;
 // fadeOut(timAnim, function(){
